@@ -1,3 +1,5 @@
+// Based on Overwatchscript/Modules
+
 method CameraSpeed()
 {
     if(IsButtonHeld(EventPlayer(), Button.SecondaryFire)){

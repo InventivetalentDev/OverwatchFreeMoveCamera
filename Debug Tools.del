@@ -1,3 +1,5 @@
+// From Overwatchscript/Modules
+
 rule: "Debug"
 Event.OngoingPlayer
 if (!IsDummyBot())
